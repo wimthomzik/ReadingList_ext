@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:readinglist/Resources/Private/Language/locallang" date="2022-12-03T21:23:36Z" product-name="readinglist">
+		<header/>
+		<body>
+			<trans-unit id="tx_readinglist_domain_model_book" resname="tx_readinglist_domain_model_book">
+				<source>Book</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_book.name" resname="tx_readinglist_domain_model_book.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_book.isbn" resname="tx_readinglist_domain_model_book.isbn">
+				<source>Isbn</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_book.category" resname="tx_readinglist_domain_model_book.category">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_book.author" resname="tx_readinglist_domain_model_book.author">
+				<source>Author</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_book.status" resname="tx_readinglist_domain_model_book.status">
+				<source>Status</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_category" resname="tx_readinglist_domain_model_category">
+				<source>Category</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_category.category_name" resname="tx_readinglist_domain_model_category.category_name">
+				<source>Category Name</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_author" resname="tx_readinglist_domain_model_author">
+				<source>Author</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_author.name" resname="tx_readinglist_domain_model_author.name">
+				<source>Name</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_readingstatus" resname="tx_readinglist_domain_model_readingstatus">
+				<source>Reading Status</source>
+			</trans-unit>
+			<trans-unit id="tx_readinglist_domain_model_readingstatus.status" resname="tx_readinglist_domain_model_readingstatus.status">
+				<source>Status</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>

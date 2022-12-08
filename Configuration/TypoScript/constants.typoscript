@@ -1,0 +1,15 @@
+
+plugin.tx_readinglist_bookfilter {
+    view {
+        # cat=plugin.tx_readinglist_bookfilter/file; type=string; label=Path to template root (FE)
+        templateRootPath = EXT:readinglist/Resources/Private/Templates/
+        # cat=plugin.tx_readinglist_bookfilter/file; type=string; label=Path to template partials (FE)
+        partialRootPath = EXT:readinglist/Resources/Private/Partials/
+        # cat=plugin.tx_readinglist_bookfilter/file; type=string; label=Path to template layouts (FE)
+        layoutRootPath = EXT:readinglist/Resources/Private/Layouts/
+    }
+    persistence {
+        # cat=plugin.tx_readinglist_bookfilter//a; type=string; label=Default storage PID
+        storagePid =
+    }
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+	<file source-language="en" datatype="plaintext" original="EXT:readinglist/Resources/Private/Language/locallang_csh" date="2022-12-03T21:23:36Z" product-name="readinglist">
+		<header/>
+		<body>
+			<trans-unit id="name.description" resname="name.description">
+				<source>name</source>
+			</trans-unit>
+			<trans-unit id="isbn.description" resname="isbn.description">
+				<source>isbn</source>
+			</trans-unit>
+			<trans-unit id="category.description" resname="category.description">
+				<source>category</source>
+			</trans-unit>
+			<trans-unit id="author.description" resname="author.description">
+				<source>author</source>
+			</trans-unit>
+			<trans-unit id="status.description" resname="status.description">
+				<source>status</source>
+			</trans-unit>
+		</body>
+	</file>
+</xliff>
